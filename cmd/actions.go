@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/rocklviv/tf-executor/cmd/helpers"
+	"github.com/rocklvivtv/tf-local-run/cmd/helpers"
 	"github.com/urfave/cli/v2"
 )
 

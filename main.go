@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/rocklviv/tf-executor/cmd"
+	"github.com/rocklvivtv/tf-local-run/cmd"
 )
 
 func main() {
