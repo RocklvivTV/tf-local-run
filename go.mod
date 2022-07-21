@@ -1,4 +1,4 @@
-module github.com/rocklvivtv/tf-local-run
+module github.com/rocklvivTV/tf-local-run
 
 go 1.18
 
