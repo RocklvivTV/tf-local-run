@@ -19,6 +19,10 @@ profiles:
       SOME_API_KEY_VAR: ""
 ```
 
+### Installation
+
+`go install github.com/RocklvivTV/tf-local-run@0.0.1`
+
 ### Usage
 
 `tf-local-run --profile test --path <path to terraform directory> <init|plan|apply|state>`
